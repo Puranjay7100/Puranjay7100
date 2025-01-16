@@ -80,7 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=puranjay7100" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=puranjay7100](https://github.com/Puranjay7100)" alt="GitHub Streak" />
 </p>
 
 ---
