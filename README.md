@@ -1,90 +1,22 @@
+# 💫 About Me:
+Hi 👋, I’m Puranjay Saha 🚀<br><br>AI/ML Enthusiast | Third-Year B.Tech CSE (AI/ML) Student<br><br>🧑‍💻 About Me<br><br>I am a passionate and curious AI/ML enthusiast with a strong interest in building intelligent systems that solve real-world problems. I enjoy exploring the intersection of machine learning, deep learning, and practical applications, and I’m constantly pushing myself to learn and grow.<br><br>🔭 Current Focus<br><br>DeepFake Detection using AI/ML techniques<br>Exploring deep learning models for healthcare applications<br><br>💡 Ask Me About<br><br>GenAi<br>Deep Learning<br>Machine Learning<br>Python Programming<br>Frontend Development (HTML, CSS, JavaScript)<br><br>🌱 Always Learning<br><br>I actively stay updated with emerging trends in AI/ML, Deep Learning, and applied research, aiming to create impactful and meaningful solutions.<br><br>🤝 Collaboration & Experience<br><br>Active participant in hackathons and collaborative tech projects<br>Experience working in team-based problem-solving environments<br>Internship experience enhancing real-world AI/ML exposure
 
-<h1 align="center">Hi 👋, I'm Puranjay Saha</h1>
-<h3 align="center">
-🚀 A Passionate AI/ML Enthusiast | Second-Year B.Tech CSE Student Specializing in AI/ML 🚀
-</h3>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
-</div>
+## 🌐 Socials:
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/Puranjay7100) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/puranjay_7100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/puranjay-saha-7100p) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Puranjay Saha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puranjay7100@gmail.com) 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=puranjay7100&label=Profile%20views&color=0e75b6&style=flat" alt="puranjay7100" />
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Puranjay7100&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Puranjay7100&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Puranjay7100&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<h2 align="center">🧑‍💻 About Me</h2>
-
-- 🌟 **Aspiring Innovator**: Exploring the fascinating intersection of technology and innovation.  
-- 🔭 **Current Project**: Working on **Breathing Anomaly Detection**.  
-- 💡 **Ask Me About**: **Machine Learning**, **Python**, and **Frontend Development**.  
-- 🌱 **Always Learning**: Keeping up with emerging trends in AI/ML to create impactful solutions.  
-- 🤝 **Collaborator**: Actively participating in hackathons and collaborative tech projects.  
-- 📫 **Reach Me**: [puranjay7100@gmail.com](mailto:puranjay7100@gmail.com)  
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Puranjay7100&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-
-<h2 align="center">🔗 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/puranjay-saha-7100p" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" height="40" />
-  </a>
-  <a href="https://instagram.com/puranjay_7100" target="blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-</p>
-
----
-
-<h2 align="center">📊 My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=puranjay7100&langs_count=6&layout=compact&hide=php&custom_title=Most%20Used%20Languages" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=puranjay7100&show_icons=true&locale=en&hide=issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=puranjay7100](https://github.com/Puranjay7100)" alt="GitHub Streak" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" alt="Thank You GIF" width="300" />
-</div>
+[![](https://visitcount.itsvg.in/api?id=Puranjay7100&icon=0&color=0)](https://visitcount.itsvg.in)
