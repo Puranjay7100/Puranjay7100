@@ -1,5 +1,38 @@
-# 💫 About Me:
-Hi 👋, I’m Puranjay Saha 🚀<br><br>AI/ML Enthusiast | Third-Year B.Tech CSE (AI/ML) Student<br><br>🧑‍💻 About Me<br><br>I am a passionate and curious AI/ML enthusiast with a strong interest in building intelligent systems that solve real-world problems. I enjoy exploring the intersection of machine learning, deep learning, and practical applications, and I’m constantly pushing myself to learn and grow.<br><br>🔭 Current Focus<br><br>DeepFake Detection using AI/ML techniques<br>Exploring deep learning models for healthcare applications<br><br>💡 Ask Me About<br><br>GenAi<br>Deep Learning<br>Machine Learning<br>Python Programming<br>Frontend Development (HTML, CSS, JavaScript)<br><br>🌱 Always Learning<br><br>I actively stay updated with emerging trends in AI/ML, Deep Learning, and applied research, aiming to create impactful and meaningful solutions.<br><br>🤝 Collaboration & Experience<br><br>Active participant in hackathons and collaborative tech projects<br>Experience working in team-based problem-solving environments<br>Internship experience enhancing real-world AI/ML exposure
+<h1 align="center">Hi 👋, I'm Puranjay Saha 🚀</h1>
+<h3 align="center">AI/ML Enthusiast | Third-Year B.Tech CSE (AI/ML) Student</h3>
+
+---
+
+## 🧑‍💻 About Me  
+I'm a **passionate and curious AI/ML enthusiast** focused on building intelligent systems that solve real-world problems.  
+I enjoy exploring the intersection of **Machine Learning, Deep Learning, and practical AI applications**, and I’m constantly pushing myself to learn and grow.
+
+---
+
+## 🔭 Current Focus  
+- 🧠 **DeepFake Detection** using AI/ML techniques  
+- 🏥 Exploring **Deep Learning models for healthcare applications**
+
+---
+
+## 💡 Ask Me About  
+- 🤖 Generative AI  
+- 🧠 Deep Learning  
+- 📊 Machine Learning  
+- 🐍 Python Programming  
+- 🌐 Frontend Development (**HTML, CSS, JavaScript**)
+
+---
+
+## 🌱 Always Learning  
+I actively stay updated with emerging trends in **AI/ML, Deep Learning, and applied research**, with a strong focus on creating **impactful and meaningful solutions**.
+
+---
+
+## 🤝 Collaboration & Experience  
+- 🚀 Active participant in **hackathons** and **collaborative tech projects**  
+- 🧩 Strong experience in **team-based problem-solving**  
+- 🏢 **Internship experience** with real-world AI/ML applications
 
 
 ## 🌐 Socials:
